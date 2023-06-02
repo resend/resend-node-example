@@ -1,4 +1,4 @@
-const { Resend } = require('resend');
+import { Resend } from 'resend';
 const resend = new Resend('re_123456789');
 
 (async function() {
@@ -11,8 +11,7 @@ const resend = new Resend('re_123456789');
     });
 
     console.log(data);
-  }
-  catch (err) {
-    console.error(err);
+  } catch (error) {
+    console.error(error);
   }
 })();

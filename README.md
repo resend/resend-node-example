@@ -11,7 +11,7 @@ To get the most out of this guide, you’ll need to:
 
 ## Instructions
 
-1. Replace `re_123456789` on `index.js` with your API key.
+1. Replace `re_123456789` on `index.ts` with your API key.
 
 2. Install dependencies:
 
