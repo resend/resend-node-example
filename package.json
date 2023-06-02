@@ -1,0 +1,10 @@
+{
+  "name": "resend-node-example",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "resend": "^0.15.1"
+  }
+}
