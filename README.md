@@ -38,7 +38,7 @@ export RESEND_API_KEY=Resend API Key
 echo 'Api Key Added'
 ```
 
-## 2. Send an email
+## 3. Send an email
 
 ```sh { name=send-email }
 npm run dev
