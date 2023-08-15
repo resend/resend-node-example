@@ -5,7 +5,7 @@
     "dev": "ts-node index.ts"
   },
   "dependencies": {
-    "resend": "^0.15.1"
+    "resend": "^0.17.0"
   },
   "devDependencies": {
     "@types/node": "^20.2.5",
