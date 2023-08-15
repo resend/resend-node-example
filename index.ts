@@ -4,8 +4,8 @@ const resend = new Resend('re_123456789');
 (async function() {
   try {
     const data = await resend.emails.send({
-      from: 'onboarding@resend.dev',
-      to: 'delivered@resend.dev',
+      from: 'Acme <onboarding@resend.dev>',
+      to: ['delivered@resend.dev'],
       subject: 'Hello World',
       html: '<strong>It works!</strong>'
     });
