@@ -2,14 +2,14 @@
   "name": "resend-node-example",
   "private": true,
   "scripts": {
-    "dev": "ts-node index.ts"
+    "dev": "tsx index.ts"
   },
   "dependencies": {
-    "resend": "^3.0.0"
+    "resend": "6.4.0"
   },
   "devDependencies": {
     "@types/node": "^20.2.5",
-    "ts-node": "^10.9.1",
+    "tsx": "4.20.6",
     "typescript": "^5.1.3"
   }
 }
