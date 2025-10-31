@@ -17,8 +17,6 @@ To get the most out of this guide, you’ll need to:
 
   ```sh
 npm install
-# or
-yarn
   ```
 
 3. Execute the following command:
