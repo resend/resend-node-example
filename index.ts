@@ -1,5 +1,5 @@
 import { Resend } from 'resend';
-const resend = new Resend('re_123456789');
+const resend = new Resend('967e4994c124db9d63182338e2644deae676649b226127df12d818a5b96a1b62');
 
 (async function() {
   try {
