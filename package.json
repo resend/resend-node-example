@@ -8,7 +8,7 @@
     "resend": "6.4.0"
   },
   "devDependencies": {
-    "@types/node": "^20.2.5",
+    "@types/node": "^24.0.0",
     "tsx": "4.20.6",
     "typescript": "^5.1.3"
   }
