@@ -5,7 +5,7 @@
     "dev": "tsx index.ts"
   },
   "dependencies": {
-    "resend": "6.4.0"
+    "resend": "6.6.0"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",
