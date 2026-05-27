@@ -16,13 +16,13 @@ To get the most out of this guide, you’ll need to:
 2. Install dependencies:
 
   ```sh
-npm install
+pnpm install
   ```
 
 3. Execute the following command:
 
   ```sh
-npm run dev
+pnpm dev
   ```
 
 ## License

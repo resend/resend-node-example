@@ -1,6 +1,7 @@
 {
   "name": "resend-node-example",
   "private": true,
+  "packageManager": "pnpm@11.3.0",
   "scripts": {
     "dev": "tsx index.ts"
   },
